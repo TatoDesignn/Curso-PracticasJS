@@ -13,4 +13,4 @@ undefined
 
 {nombre: "Santiago"} //Objeto 
 
-typeof  //Que tipo es
+//typeof  //Que tipo es
